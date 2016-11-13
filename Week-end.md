@@ -1,0 +1,17 @@
+- [ ] Appareil photo
+- [ ] Sachets de thé
+- [ ] Brosse à dents
+- [ ] Dentifrice
+- [ ] Gel douche
+- [ ] Serviettes
+- [ ] Câble iPhone
+- [ ] Chargeur / Ordinateur
+- [ ] Bandeau
+- [ ] Bouchons d’oreilles concerts
+- [ ] Écouteurs
+- [ ] Carte réduction SNCF
+- [ ] Crème sanipieds
+- [ ] Protections hygiéniques
+- [ ] Biscuits
+- [ ] Parapluie
+- [ ] Maillot de bain

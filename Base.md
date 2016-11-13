@@ -1,0 +1,3 @@
+- [ ] Carte bleue
+- [ ] Carte Vitale / CEAM
+- [ ] Pièce d’identité

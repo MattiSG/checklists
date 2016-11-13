@@ -1,0 +1,6 @@
+- [ ] Crème sanipieds
+- [ ] Lampe frontale
+- [ ] Duvet
+- [ ] Matelas
+- [ ] Tente / Sursac
+- [ ] Bâtons

@@ -1,0 +1,3 @@
+- [ ] Lessive
+- [ ] Batterie supplémentaire appareil photo
+- [ ] Câble appareil photo

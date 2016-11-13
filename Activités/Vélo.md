@@ -1,0 +1,4 @@
+- [ ] Casque
+- [ ] Gants
+- [ ] Surpantalon
+- [ ] Boîtier étanche téléphone
